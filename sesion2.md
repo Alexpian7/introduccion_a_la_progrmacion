@@ -7,7 +7,7 @@
 
 
 
-```
+`
 <!DOCTYPE html>
 <html>
 
@@ -47,9 +47,9 @@
 </body>
 </nav>
 </html>
-```
+``
            
-![Texto alternativo](/img/sesion2.png)
+
 
 
 

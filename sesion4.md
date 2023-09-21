@@ -4,7 +4,7 @@
 ## Sesión 4
 
 
-```
+`
 <!DOCTYPE html>
 <html>
 
@@ -201,10 +201,10 @@
 </nav>
 
 </html>
-```
 
-![Texto alternativo](/img/Table1.png)
-![Texto alternativo](/img/Table2.png)
+``
+
+
 
 
 
