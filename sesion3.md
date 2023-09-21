@@ -120,7 +120,8 @@
 
 </html>
 ```
-
+![Texto alternativo](/img/sesion3.1.png)
+![Texto alternativo](/img/sesion3.2.png)
 
 
 

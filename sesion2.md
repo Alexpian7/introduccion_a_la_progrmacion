@@ -49,7 +49,8 @@
 </html>
 ```
            
-    
+![Texto alternativo](/img/sesion2.png)
+
 
 
 
