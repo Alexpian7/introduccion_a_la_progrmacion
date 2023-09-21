@@ -7,7 +7,7 @@
 
 
 
-`
+```HTML
 <!DOCTYPE html>
 <html>
 
@@ -47,7 +47,7 @@
 </body>
 </nav>
 </html>
-``
+```
            
 
 

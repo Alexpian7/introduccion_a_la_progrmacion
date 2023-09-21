@@ -3,7 +3,7 @@
 
 ## Sesión 3 
 
-`
+```HTML
 <!DOCTYPE html>
 <html>
 
@@ -43,7 +43,7 @@
 </body>
 </nav>
 </html>
-``
+```
 
 
 

@@ -4,7 +4,7 @@
 ## Sesión 4
 
 
-`
+```HTML
 <!DOCTYPE html>
 <html>
 
@@ -202,7 +202,7 @@
 
 </html>
 
-``
+```
 
 
 
