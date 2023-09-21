@@ -3,8 +3,12 @@
 
 ## Sesión 2
 
+### Mi primer sitio web
 
-<!DOCTYPE html> -->
+
+
+```
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -43,7 +47,9 @@
 </body>
 </nav>
 </html>
-
+```
+           
+    
 
 
 
