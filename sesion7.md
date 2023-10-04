@@ -3,8 +3,10 @@
 
 ## Sesión 7 
 
+# Este es mi repositorio
 
-<!-- Su documentación aquí -->
+For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+
 
 
 
