@@ -5,10 +5,7 @@
 
 # Este es mi repositorio
 
-For more information, see the [contributor guide index](https://github.com/Alexpian7/OrderMenu).
-
-
-
+Para más información, este es mi repositorio libre  [contributor guide index](https://github.com/Alexpian7/OrderMenu).
 
 
 
